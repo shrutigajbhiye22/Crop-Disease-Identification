@@ -31,6 +31,14 @@ By following these steps, you can create an open-source environment that encoura
 
 
 ## Testing Images
+* Test Image Folder: Keep test images in a folder (e.g., "test_images").
+* Documentation: Provide clear instructions on how to use test images for model evaluation.
+* Diverse Cases: Include various disease examples, severity levels, and environmental conditions.
+* Ground Truth: If possible, provide actual disease labels for the test images.
+* Sample Outputs: Include expected output examples for reference.
+* Automate Testing: Offer scripts or tools for automated model testing.
+* Feedback: Allow users to provide feedback on model performance.
+* Keep Updated: Continuously update test images and documentation as your project evolves.
 
 ## Presentation Link:
 https://www.canva.com/design/DAFvqKnmKiQ/ikGEGleHmmoEnN-3mQ2tBQ/edit?utm_content=DAFvqKnmKiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
