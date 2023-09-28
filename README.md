@@ -38,7 +38,7 @@ By following these steps, you can create an open-source environment that encoura
 * Sample Outputs: Include expected output examples for reference.
 * Automate Testing: Offer scripts or tools for automated model testing.
 * Feedback: Allow users to provide feedback on model performance.
-* Keep Updated: Continuously update test images and documentation as your project evolves.
+* Keep Updated: Continuously update test images and documentation as project evolves.
 
 ## Presentation Link:
 https://www.canva.com/design/DAFvqKnmKiQ/ikGEGleHmmoEnN-3mQ2tBQ/edit?utm_content=DAFvqKnmKiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
